@@ -1,6 +1,0 @@
-# Ignorer les fichiers système
-.DS_Store
-
-# Ignorer les fichiers multimédias
-*.webp
-*.mp4

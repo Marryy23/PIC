@@ -1,6 +1,0 @@
-# Ignorer les fichiers système
-.DS_Store
-.tmp.driveupload/
-
-# Ignorer les fichiers vidéos et temporaires
-*.mp4
